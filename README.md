@@ -1,4 +1,4 @@
-##Sitio web de peliculas
+## Sitio web de peliculas
 ### Resumen
 En este proyecto, se realizará un sitio web que será el pié inicial de una aplicación que permite ver un catálogo de películas. En esta aplicación será posible escoger entre ver un resumen de la película o directamente ver la película.
 
