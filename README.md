@@ -22,7 +22,7 @@ Cada equipo se encargará de una página en específico y trabajarán en ramas s
 
 - Equipo 2:
 	- Paticipantes:
- 		- Participante Ejemplo
+ 		-neifer gonzale
  	- Página:
  		- Página Ejemplo
 
