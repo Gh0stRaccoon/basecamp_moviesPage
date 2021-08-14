@@ -1,0 +1,13 @@
+.pelicula{
+    width: 300px;
+    height:350px;
+    border:1px solid blue;
+    margin: .2em;
+    padding: .2em;
+}
+.iconohearth{
+    color:red;
+}
+.pie{
+    height: 5%;
+}
