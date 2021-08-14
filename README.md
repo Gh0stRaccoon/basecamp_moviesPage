@@ -23,8 +23,9 @@ Cada equipo se encargará de una página en específico y trabajarán en ramas s
 - Equipo 2:
 	- Paticipantes:
  		- Neifer González
+ 		- Juan Gutierrez
  	- Página:
- 		- Página Ejemplo
+ 		- Página de detalle
 
 - Equipo 3:
 	- Paticipantes:
