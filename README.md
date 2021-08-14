@@ -28,6 +28,6 @@ Cada equipo se encargará de una página en específico y trabajarán en ramas s
 
 - Equipo 3:
 	- Paticipantes:
- 		- Participante Ejemplo
+ 		- Dandaly Morales
  	- Página:
- 		- Página Ejemplo
+ 		- Página 03
