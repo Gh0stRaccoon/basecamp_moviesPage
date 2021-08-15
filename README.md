@@ -31,7 +31,7 @@ Cada equipo se encargará de una página en específico y trabajarán en ramas s
 	- Paticipantes:
  		- Dandaly Morales
  	- Página:
- 		- Página 03
+ 		- Página de visualización
 
 
 ### Actualización Importante
