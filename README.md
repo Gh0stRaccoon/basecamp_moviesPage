@@ -32,3 +32,26 @@ Cada equipo se encargará de una página en específico y trabajarán en ramas s
  		- Dandaly Morales
  	- Página:
  		- Página 03
+
+
+### Actualización Importante
+A continuación se muestran los modelos guía para realizar el diseño de nuestra aplicación.
+
+### Página principal
+![](https://i.imgur.com/84oFbP9.png)
+
+### Página de Detalles
+![](https://i.imgur.com/wRuxIdE.png)
+
+### Página de visualización
+![](https://i.imgur.com/iOfQkHi.png)
+
+Nos podemos dar cuenta de que hay elementos que son similares entre las páginas, estos elementos no deberían estar repetidos en el código CSS. Por lo tanto la comunicación entre equipos es escencial.
+*El modelo es sólo referencial, ustedes son libres de hacer cambios en las páginas.*
+
+------------
+##### Documentación Extra:
+Para sacar iconos, existe una herramienta con opción gratuita, llamada [FontAwesome](https://fontawesome.com/ "FontAwesome"), revisen cómo poder utilizarla.
+
+Un pequeño tutorial:
+https://youtu.be/Pml-LrFXKTA
