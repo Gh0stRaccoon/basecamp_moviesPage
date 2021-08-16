@@ -20,8 +20,14 @@
     font-size:medium;
     color:rgb(242, 242, 248);
 }
-.elento{
-    border-top:1px solid red;
+.elenco{
+border-bottom:1px solid red;
+align-items: center;
+margin-bottom: 1px;
+padding: 2px;
+background-color:black;
+color: blanchedalmond;
+border-radius: 15px;
 }
 .titmodal{
     text-align: center;
