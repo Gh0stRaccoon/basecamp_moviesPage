@@ -24,6 +24,7 @@ Cada equipo se encargará de una página en específico y trabajarán en ramas s
 	- Paticipantes:
  		- Neifer González
  		- Juan Gutierrez
+ 		- Ronald Madariaga
  	- Página:
  		- Página de detalle
 
