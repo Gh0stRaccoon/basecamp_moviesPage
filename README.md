@@ -16,7 +16,10 @@ Cada equipo se encargará de una página en específico y trabajarán en ramas s
 
 - Equipo 1:
 	- Paticipantes:
- 		- Participante Ejemplo
+ 		-Alejandro Venegas. https://github.com/DarkCamaleon
+		-Emanuel Olguin. https://github.com/ema-olg
+		-Franco Urra : https://github.com/kofrann
+
  	- Página:
  		- Página Ejemplo
 
