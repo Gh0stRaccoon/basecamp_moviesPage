@@ -25,6 +25,7 @@ Cada equipo se encargará de una página en específico y trabajarán en ramas s
  		- Neifer González
  		- Juan Gutierrez
  		- Ronald Madariaga
+ 		- Daniela Hernández
  	- Página:
  		- Página de detalle
 
