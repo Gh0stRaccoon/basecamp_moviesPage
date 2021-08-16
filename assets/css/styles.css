@@ -15,3 +15,26 @@
     color: white;
     text-align: center;
 }
+.resumen{
+    text-align: justify;
+    font-size:medium;
+    color:rgb(242, 242, 248);
+}
+.elento{
+    border-top:1px solid red;
+}
+.titmodal{
+    text-align: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+.modalr{
+    background: -webkit-linear-gradient(rgba(76, 148, 236, 0.94),rgba(181, 221, 5, 0.95)),url(../img/fondopelis.jpg);
+    color:rgb(242, 242, 248);
+}
+.bs-example{
+    margin: 20px;
+}
+.modal-dialog {
+    max-width: 700px;
+}
