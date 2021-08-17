@@ -1,12 +1,124 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Página de visualización</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns"
+        crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-    
+    <header class="navtitle">
+        <div>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
+                <a class="navbar-brand" href="index.html">
+                    <img src="./images/awakelogo.png" width="30" height="30" class="d-inline-block align-left" alt="">
+                    AWAKEMOVIES
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
+                    aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarText">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./index.html">Inicio <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./details.html">Catálogo</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./watch.html">Ver ahora</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <div class="row" style="width: 80%; justify-content: center; margin-left: auto; margin-right: auto;">
+        <div class="col-lg-12">
+        <div>
+            <h1 style="margin-top: 10px;">Space Jam 2</h1>
+        </div>
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/olXYZOsXw_o"
+                allowfullscreen></iframe>
+        </div>
+        </div>
+        <form class="col-lg-8" style="margin-top: 20px;">
+            <div>
+                <a>Puntúa esta película</a>
+                <p class="clasificacion" style="margin-top: 10px; text-align: left">
+                    <input id="radio1" type="radio" name="estrellas" value="5">
+                    <label for="radio1">★</label>
+                    <input id="radio2" type="radio" name="estrellas" value="4">
+                    <label for="radio2">★</label>
+                    <input id="radio3" type="radio" name="estrellas" value="3">
+                    <label for="radio3">★</label>
+                    <input id="radio4" type="radio" name="estrellas" value="2">
+                    <label for="radio4">★</label>
+                    <input id="radio5" type="radio" name="estrellas" value="1">
+                    <label for="radio5">★</label>
+                </p>
+                <a>COMENTARIOS:</a>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea><br>
+                <div class="row">
+                    <div class="col-lg-2">
+                        <h2>Juan Pérez</h2>
+                        <label style="color: yellow;">★★★</label>
+                    </div>
+                    <div class="col-lg-10">
+                        <p>La verdad estoy muy satisfecho, me encanto pero no es mejor que la primera. Es una buena secuela, eso si no es perfecta, pero con las criticas que la atacaron, creo que exageran diciendo que es mas un comercial ¡Ay por favor! La primera vino de un comercial. </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2">
+                        <h2>Carmela Flores</h2>
+                        <label style="color: yellow;">★★★★</label>
+                    </div>
+                    <div class="col-lg-10">
+                        <p>Muy buena la pelicula, entre los efectos especiales esta increible, el 3D esta increible, pero creo que tambien le falta un poco, no me decepciono ni nada, solo que no me gusto mucho, lo bueno: El 3D de los looney, el publico de todo el universo warner formando un crossover, los detalles, los guiños, la importancia a el universo warner bros, Etc.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2">
+                        <h2>John Cena</h2>
+                        <label style="color: yellow;">★★★★★</label>
+                    </div>
+                    <div class="col-lg-10">
+                        <p>Una pelicula sin igual y Mejor que la primera!
+                            En si la pelicula tiene muchos Giños, referencias,etc... por lo cual en si la hace mejor y más destacable que incluso hasta cambian algunos lugares u aspectos de los looneys.</p>
+                    </div>
+                </div>
+            
+            </div>
+
+        </form>
+        <div class="col-lg-4" style="margin-top: 20px;">
+            <a>Relacionadas</a>
+        </div>
+    </div>
+
+
+
+    <footer>
+        <div class="text-center p-3">
+            <a class="text-black" href="http://www.awakelab.cl">© 2021 Copyright: Awakelab IDW-GEN0308-3 Equipo 3 </a>
+        </div>
+    </footer>
 </body>
+
 </html>
