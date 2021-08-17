@@ -23,14 +23,12 @@ h3 {
 
 img {
     max-width: 100%;
-    box-shadow: 3px 3px 3px rgb(134, 128, 128);
 }
 
 .contenido {
     background-color: white;
     margin-bottom: 1rem;
     text-transform: uppercase;
-    box-shadow: 3px 3px 3px rgb(134, 128, 128);
 }
 
 .contenido {
